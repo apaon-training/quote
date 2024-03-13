@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p> Shaik Khaja Moinuddin-V N V Pranavi
+        <p> Shaik Khaja Moinuddin-V N V Pranavi- sai vara prasad
           Edit <code>src/App.js</code> and save to reload.
         </p> from kurnool
         <a
