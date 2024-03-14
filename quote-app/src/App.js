@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to day 4</h1>
-        <h2>Interesting Day</h2>
+        <h2><b>Interesting Day</b></h2>
         <i>day task starts</i>
         <h6><u>Hot Afternoon</u></h6>
         <p> Shaik Khaja Moinuddin-V N V Pranavi- sai vara prasad-vishnu-ramakrishna-sai pranav-sai-apaon
