@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to day 4</h1>
         <h2>Interesting Day</h2>
+        <i>day task starts</i>
         <h6>Hot Afternoon</h6>
         <p> Shaik Khaja Moinuddin-V N V Pranavi- sai vara prasad-vishnu-ramakrishna-sai pranav
           Edit <code>src/App.js</code> and save to reload.
