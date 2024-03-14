@@ -41,7 +41,9 @@ line breaks
           target="_blank"
           rel="noopener noreferrer"
         >
-          <p>good afternoon</p>
+          <p>Good Afternoon.</p>
+          <p>Hope your day is bright and amazing</p>
+          <p>Day is always productive with best time to learn.</p>
           Learn React
         </a>
       </header>
