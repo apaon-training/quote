@@ -13,7 +13,7 @@ function App() {
         <h1 style="color:Tomato;">Hello apaon members</h1>
         <p> Shaik Khaja Moinuddin-V N V Pranavi- sai vara prasad-vishnu-ramakrishna-sai pranav-sai-apaon
           Edit <code>src/App.js</code> and save to reload.
-        </p> from kurnool- By Apaon
+        </p> from kurnool-Apaon
         <p>vishnu</p>
         <p>apaon </p>
         <h1>This is a apaon</h1>
