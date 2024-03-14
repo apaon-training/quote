@@ -3,6 +3,7 @@
 }
 
 .App-logo {
+  background-color: aqua;
   height: 60vmin;
   pointer-events: visiblePainted;
 }
