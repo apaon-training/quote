@@ -10,7 +10,7 @@ function App() {
         <h2>Interesting Day</h2>
         <i>day task starts</i>
         <h6><u>Hot Afternoon</u></h6>
-        <p> Shaik Khaja Moinuddin-V N V Pranavi- sai vara prasad-vishnu-ramakrishna-sai pranav-sai
+        <p> Shaik Khaja Moinuddin-V N V Pranavi- sai vara prasad-vishnu-ramakrishna-sai pranav-sai-apaon
           Edit <code>src/App.js</code> and save to reload.
         </p> from kurnool- By Apaon
         <p>vishnu</p>
