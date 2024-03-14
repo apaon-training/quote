@@ -28,6 +28,13 @@ function App() {
         <button>Sales qoute 149 789</button>
         <b>apaon</b>
         <strong>vardhan</strong>
+        <pre>
+Text in a pre element
+is displayed in a fixed-width
+font, and it preserves
+both      spaces and
+line breaks
+</pre>
         <a
           className="App-link"
           href="https://reactjs.org"
