@@ -12,7 +12,7 @@ function App() {
         <h6><u>Hot Afternoon</u></h6>
         {/* Todo: Need to figure out why inline styling not working here */}
         {/* <h1 style='color:tomato;'>Hello apaon members</h1> */}
-        <h1>Hello apaon members</h1>
+        <h1>Hello apaon team members</h1>
         <p> Shaik Khaja Moinuddin-V N V Pranavi- sai vara prasad-vishnu-ramakrishna-sai pranav-sai-apaon A1 team members
           Edit <code>src/App.js</code> and save to reload.
         </p> from kurnool-Apaon sandeep
