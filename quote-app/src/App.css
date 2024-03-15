@@ -32,9 +32,9 @@ p.groove {border-style: groove;}
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(190deg);
+    transform: rotate(45deg);
   }
   to {
-    transform: rotate(350deg);
+    transform: rotate(90deg);
   }
 }
