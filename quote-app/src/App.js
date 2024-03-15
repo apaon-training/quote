@@ -43,7 +43,7 @@ line breaks
         >
           <p>Good Afternoon.</p>
           <p>Hope your day is bright and amazing</p>
-          <p>this is apaon technologies training</p>
+          <p>this is apaon technologies Kurnool.</p>
           <p>Day is always productive with best time to learn.</p>
           Learn React
         </a>
