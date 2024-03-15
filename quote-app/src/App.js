@@ -42,6 +42,7 @@ Ha! Ha! Ha!
         <b>apaon</b>
         <strong>vardhan</strong>
         <p>Steps to follow merge and creating branches</p>
+        <p>"Unite for Progress, Inspire Change."</p>
         <pre>
 Text in a pre element
 is displayed in a fixed-width
