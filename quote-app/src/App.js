@@ -24,6 +24,7 @@ function App() {
         <h1>My First Heading</h1>
         <p>This is testing branch changes 123</p>
         <p>This is testing branch changes 999</p>
+        <p>creating branch and doing merge</p>
         <p> <mark> Day start with task</mark></p>
         <button>Sales qoute 149 789</button>
         <a
