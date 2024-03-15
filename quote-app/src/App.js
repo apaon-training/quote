@@ -7,6 +7,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to day 4</h1>
+        <pre>
+          Johny, Johny!
+Yes, Papa
+Eating sugar?
+No, Papa
+Telling lies?
+No, Papa
+Open your mouth!
+Ha! Ha! Ha!
+</pre>
         <h2><b>Interesting Day</b></h2>
         <i>day task starts</i>
         <h6><u>Hot Afternoon</u></h6>
