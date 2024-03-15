@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to day 4</h1>
+        <p class="one"> “ It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free.”</p>
         <pre>
           Johny, Johny!
 Yes, Papa

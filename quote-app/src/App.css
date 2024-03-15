@@ -15,6 +15,11 @@ p.groove {border-style: groove;}
   }
 }
 
+p.one {
+  border-style: solid;
+  border-color: rgb(166, 61, 207);}
+  
+
 .App-header {
   background-color: rgb(37, 12, 3);
   min-height: 300vh;
