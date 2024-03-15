@@ -3,36 +3,40 @@
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  background-color: rgba(150, 143, 179, 0.014);
+  height: 70vmin;
+  pointer-events: allc;
 }
+p.groove {border-style: groove;}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 30s linear;
   }
 }
-
+p.one {
+  border-style: solid;
+  border-color: rgba(129, 51, 218, 0.411);}
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: rgb(194, 22, 99);
+  min-height: 300vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: right;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(9px + 2vmin);
   color: white;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #ef9ed4;
 }
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+    transform: rotate(45deg);
   }
   to {
-    transform: rotate(360deg);
+    transform: rotate(90deg);
   }
 }
