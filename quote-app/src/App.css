@@ -14,7 +14,9 @@ p.groove {border-style: groove;}
     animation: App-logo-spin infinite 30s linear;
   }
 }
-
+p.one {
+  border-style: solid;
+  border-color: rgba(129, 51, 218, 0.411);}
 .App-header {
   background-color: rgb(37, 12, 3);
   min-height: 300vh;
