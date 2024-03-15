@@ -58,7 +58,7 @@ line breaks
           <p>this is apaon technologies Kurnool.</p>
           <p>present working on a project</p>
           <p>Day is always productive with best time to learn.</p>
-          Learn React
+          Learn React with me
         </a>
       </header>
     </div>
