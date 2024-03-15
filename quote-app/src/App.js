@@ -16,6 +16,7 @@ Telling lies?
 No, Papa
 Open your mouth!
 Ha! Ha! Ha!
+Ha! Ha! Ha!
 </pre>
         <h2><b>Interesting Day</b></h2>
         <p>app.js quote code</p>
