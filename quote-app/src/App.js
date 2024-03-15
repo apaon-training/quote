@@ -39,7 +39,7 @@ Ha! Ha! Ha!
           rel="noopener noreferrer"
         >
           <p>good afternoon</p>
-          Learn React
+          <h1>Learn React</h1>
         </a>
       </header>
     </div>
