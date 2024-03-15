@@ -20,6 +20,7 @@ Ha! Ha! Ha!
         <h2><b>Interesting Day</b></h2>
         <p>app.js quote code</p>
         <i>day task starts</i>
+        <p>vardhan</p>
         <h6><u>Hot Afternoon</u></h6>
         <h1 style="color:Tomato;">Hello apaon members</h1>
         <p1>"Make it <b>work</b>, make it <b>right</b>, make it <b>fast</b>."</p1>
