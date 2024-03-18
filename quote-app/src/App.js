@@ -72,7 +72,7 @@ Done.. testing pr
           target="_blank"
           rel="noopener noreferrer"
         >
-          <p>Good Afternoon.</p>
+          <p>GOOD AFTERNOON.</p>
           <p>good evening</p>
           <p>Hope your day is bright and super</p>
           <p>this is apaon technologies Kurnool.</p>
