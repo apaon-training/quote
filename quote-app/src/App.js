@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Welcome</h1>
+        <h1>Welcome to apaon</h1>
         <pre>
           Johny, Johny!
 Yes, Papa
@@ -23,9 +23,14 @@ Ha! Ha! Ha!
         <i>day task starts</i>
         <p>vardhan</p>
         <h6><u>Hot Afternoon</u></h6>
+ feature/786-shaik
         <h2 style="border: 3px solid pink;" Hello apaon members ></h2>
         <h2>HTML Image</h2>
-<img src="https://media.istockphoto.com/vectors/welcome-to-team-concept-vector-illustration-vector-id1217003339?k=6&m=1217003339&s=612x612&w=0&h=fc6-o1Ni4D82qim3pPuhO38_DZJjoFDPbK1_zrVqSiA=" alt="Welcome to the team" width="460" height="345"></img>
+        <img src="https://media.istockphoto.com/vectors/welcome-to-team-concept-vector-illustration-vector-id1217003339?k=6&m=1217003339&s=612x612&w=0&h=fc6-o1Ni4D82qim3pPuhO38_DZJjoFDPbK1_zrVqSiA=" alt="Welcome to the team" width="460" height="345"></img>
+        <p>html</p>
+        <p>css</p>
+        <p>java</p>
+ main
         {/* <h1 style="color:Tomato;">Hello apaon members</h1> */}
         <p1>"Make it <b>work</b>, make it <b>right</b>, make it <b>fast</b>."</p1>
         <p> Shaik Khaja Moinuddin-V N V Pranavi- sai vara prasad-vishnu-ramakrishna-sai pranav-sai-apaon technologies
@@ -33,10 +38,11 @@ Ha! Ha! Ha!
         </p> from kurnool-Apaon sandeep
         <p>vishnu </p>
         <p>sandeep149</p>
+        <p>sai</p>
         <p>apaon technologies</p>
         <p>new task 654 152</p>
         <h3>Welcome to day 6</h3>
-        <h1>This is a apaon</h1>
+        <h1>This is a apaon this </h1>
         <h1>My First Heading in Progress</h1>
         <p>This is testing branch changes 123</p>
         <p>This is testing branch changes 999</p>
@@ -48,7 +54,7 @@ Ha! Ha! Ha!
         <strong>vardhan</strong>
         <button>task</button>
         <p>Steps to follow merge and creating branches testing in progres</p>
-        <p>"Unite for Progress, Inspire Change."</p>
+        <p>"Unite for Progress, Inspire in  Change."</p>
         <pre>
 Text in a pre element
 is displayed in a fixed-width
@@ -68,6 +74,7 @@ Done.. testing pr
           <p>this is apaon technologies Kurnool.</p>
           <p>Day is always productive with best time to learn.</p>
           Learn React
+          <p>Revising PR concepts and practising it test review1~</p>
         </a>
       </header>
     </div>
