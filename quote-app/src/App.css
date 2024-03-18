@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  background-color: rgba(150, 143, 179, 0.014);
+  background-color: rgba(184, 205, 24, 0.014);
   height: 70vmin;
   pointer-events: allc;
 }
@@ -16,9 +16,9 @@ p.groove {border-style: groove;}
 }
 p.one {
   border-style: solid;
-  border-color: rgba(182, 218, 51, 0.411);}
+  border-color: rgba(13, 6, 88, 0.411);}
 .App-header {
-  background-color: rgb(22, 194, 74);
+  background-color: rgb(11, 67, 27);
   min-height: 300vh;
   display: flex;
   flex-direction: column;
@@ -29,7 +29,7 @@ p.one {
 }
 
 .App-link {
-  color: #5a073e;
+  color: #170210;
 }
 
 @keyframes App-logo-spin {
