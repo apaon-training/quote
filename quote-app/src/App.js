@@ -55,8 +55,8 @@ Ha! Ha! Ha!
         <h>"Unite, <b>Innovate</b>, Thrive: <i>Together</i>, ANYTHING IS POSSIBLE!"</h>
         <b>apaon</b>
         <strong>vardhan</strong>
-        <button>error task</button>
-        <p>Steps to follow merge and creating branches testing in progres</p>
+        <button>task new</button>
+        <p>Steps to follow merge and creating branches testing in prog res</p>
         <p>"Unite for Progress, Inspire in  Change."</p>
         <pre>
 Text in a pre element
