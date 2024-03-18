@@ -49,7 +49,7 @@ Ha! Ha! Ha!
         <strong>vardhan</strong>
         <button>task</button>
         <p>Steps to follow merge and creating branches testing in progres</p>
-        <p>"Unite for Progress, Inspire Change."</p>
+        <p>"Unite for Progress, Inspire in  Change."</p>
         <pre>
 Text in a pre element
 is displayed in a fixed-width
