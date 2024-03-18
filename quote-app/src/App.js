@@ -48,7 +48,7 @@ Ha! Ha! Ha!
         <b>apaon</b>
         <strong>vardhan</strong>
         <button>task</button>
-        <p>Steps to follow merge and creating branches testing in progres</p>
+        <p>Steps to follow merge or  creating branches testing in progres</p>
         <p>"Unite for Progress, Inspire in  Change."</p>
         <pre>
 Text in a pre element
