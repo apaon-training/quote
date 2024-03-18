@@ -45,6 +45,7 @@ Ha! Ha! Ha!
         <p>"Empower Tomorrow, Today!"</p>
         <p> <mark> Day start with new task</mark></p>
         <button>Sales qoute 149 789</button>
+        <h>Enter the new world</h>
         <h>"Unite, Innovate, Thrive: Together, Anything is Possible!"</h>
         <b>apaon</b>
         <strong>vardhan</strong>
