@@ -25,6 +25,7 @@ Ha! Ha! Ha!
         <p>app.js quote code</p>
         <I>DAY TASK STARTS</I>
         <p>vardhan</p>
+        <p>vardhan 234</p>
         <h6><u>fun Afternoon</u></h6>
         <h2 style="border: 3px solid pink;" Hello apaon members ></h2>
         <h2>HTML Image</h2>
