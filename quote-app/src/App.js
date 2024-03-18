@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Welcome to day 4</h1>
+        <h1>Welcome</h1>
         <pre>
           Johny, Johny!
 Yes, Papa
@@ -54,6 +54,7 @@ is displayed in a fixed-width
 font, and it preserves
 both      spaces and
 line breaks
+Done.. testing pr
 </pre>
         <a
           className="App-link"
@@ -62,7 +63,7 @@ line breaks
           rel="noopener noreferrer"
         >
           <p>Good Afternoon.</p>
-          <p>Hope your day is bright and amazing</p>
+          <p>Hope your day is bright and super</p>
           <p>this is apaon technologies Kurnool.</p>
           <p>Day is always productive with best time to learn.</p>
           Learn React
