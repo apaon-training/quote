@@ -69,7 +69,7 @@ Done.. testing pr
           <p>this is apaon technologies Kurnool.</p>
           <p>Day is always productive with best time to learn.</p>
           Learn React
-          <p>Revising PR concepts and practising it~</p>
+          <p>Revising PR concepts and practising it test review1~</p>
         </a>
       </header>
     </div>
