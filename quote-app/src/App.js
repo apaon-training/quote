@@ -22,7 +22,7 @@ Ha! Ha! Ha!
 </pre>
 {/* <P>pr test review by rk</P> */}
         <h2><b>Interesting Day</b></h2>
-        <I>DAY TASK STARTS</I>
+        {/* <I>DAY TASK STARTS</I> */}
         <p>vardhan</p>
         <p>vardhan 234</p>
         <h6><u>fun Afternoon</u></h6>
