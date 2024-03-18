@@ -33,6 +33,7 @@ Ha! Ha! Ha!
         </p> from kurnool-Apaon sandeep
         <p>vishnu </p>
         <p>sandeep149</p>
+        <p>sai</p>
         <p>apaon technologies</p>
         <p>nani</p>
         <p>new task 654 152</p>
@@ -49,7 +50,7 @@ Ha! Ha! Ha!
         <strong>vardhan</strong>
         <button>task</button>
         <p>Steps to follow merge and creating branches testing in progres</p>
-        <p>"Unite for Progress, Inspire Change."</p>
+        <p>"Unite for Progress, Inspire in  Change."</p>
         <pre>
 Text in a pre element
 is displayed in a fixed-width
