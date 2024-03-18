@@ -40,13 +40,13 @@ Ha! Ha! Ha!
         <p>This is testing branch changes 123</p>
         <p>This is testing branch changes 999</p>
         <p>"Empower Tomorrow, Today!"</p>
-        <p> <mark> Day start with task</mark></p>
+        <p> <mark> Day start with new task</mark></p>
         <button>Sales qoute 149 789</button>
         <h>"Unite, Innovate, Thrive: Together, Anything is Possible!"</h>
         <b>apaon</b>
         <strong>vardhan</strong>
         <button>task</button>
-        <p>Steps to follow merge and creating branches</p>
+        <p>Steps to follow merge and creating branches testing in progres</p>
         <p>"Unite for Progress, Inspire Change."</p>
         <pre>
 Text in a pre element
