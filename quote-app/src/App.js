@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to apaon</h1>
+        <p>google</p>
         <pre>
           Johny, Johny!
 Yes, Papa
@@ -24,29 +25,34 @@ Ha! Ha! Ha!
         <p>app.js quote code</p>
         <i>day task starts</i>
         <p>vardhan</p>
-        <h6><u>Hot Afternoon</u></h6>
+        <h6><u>fun Afternoon</u></h6>
+        <h2 style="border: 3px solid pink;" Hello apaon members ></h2>
+        <h2>HTML Image</h2>
+        <img src="https://media.istockphoto.com/vectors/welcome-to-team-concept-vector-illustration-vector-id1217003339?k=6&m=1217003339&s=612x612&w=0&h=fc6-o1Ni4D82qim3pPuhO38_DZJjoFDPbK1_zrVqSiA=" alt="Welcome to the team" width="460" height="345"></img>
         <p>html</p>
         <p>css</p>
         <p>java</p>
+ main
         {/* <h1 style="color:Tomato;">Hello apaon members</h1> */}
         <p1>"Make it <b>work</b>, make it <b>right</b>, make it <b>fast</b>."</p1>
-        <p> Shaik Khaja Moinuddin-V N V Pranavi- sai vara prasad-vishnu-ramakrishna-sai pranav-sai-apaon technologies
+        <p> SHAIK KHAJA MOINUDDIN-V N V PRANAVI- SAI VARA PRASAD-VISHNU-RAMAKRISHNA-SAI PRANAV-SAI-APAON TECHNOLOGIES
           Edit <code>src/App.js</code> and save to reload.
         </p> from kurnool-Apaon sandeep
         <p>vishnu </p>
         <p>sandeep149</p>
         <p>sai</p>
-        <p>apaon technologies</p>
+        <p>apaon technologies 1999</p>
+        <p>nani</p>
         <p>new task 654 152</p>
         <h3>Welcome to day 6</h3>
         <h1>This is a apaon this </h1>
         <h1>My First Heading in Progress</h1>
         <p>This is testing branch changes 123</p>
-        <p>This is testing branch changes 999</p>
+        <p>This is PR testing branch changes 786</p>
         <p>"Empower Tomorrow, Today!"</p>
         <p> <mark> Day start with new task</mark></p>
         <button>Sales qoute 149 789</button>
-        <h>"Unite, Innovate, Thrive: Together, Anything is Possible!"</h>
+        <h>"Unite, <b>Innovate</b>, Thrive: <i>Together</i>, ANYTHING IS POSSIBLE!"</h>
         <b>apaon</b>
         <strong>vardhan</strong>
         <button>error task</button>
@@ -67,10 +73,11 @@ Done.. testing pr
           rel="noopener noreferrer"
         >
           <p>Good Afternoon.</p>
+          <p>good evening</p>
           <p>Hope your day is bright and super</p>
           <p>this is apaon technologies Kurnool.</p>
           <p>Day is always productive with best time to learn.</p>
-          Learn React
+          Learn React let's start
           <p>Revising PR concepts and practising it test review1~</p>
         </a>
       </header>
