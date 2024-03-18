@@ -37,11 +37,11 @@ Ha! Ha! Ha!
         <p>apaon technologies</p>
         <p>new task 654 152</p>
         <h3>Welcome to day 6</h3>
-        <h1>This is a apaon</h1>
-        <h1>My First Heading in Progress</h1>
+        <h1></h1>
+        <h1>My Firthis is a apaonst Heading in Progress</h1>
         <p>This is testing branch changes 123</p>
         <p>This is testing branch changes 999</p>
-        <p>"Empower Tomorrow, Today!"</p>
+        <p>"EMPOWER TOMORROW, TODAY!"</p>
         <p> <mark> Day start with new task</mark></p>
         <button>Sales qoute 149 789</button>
         <h>"Unite, Innovate, Thrive: Together, Anything is Possible!"</h>
