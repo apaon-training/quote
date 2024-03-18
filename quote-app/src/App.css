@@ -16,9 +16,9 @@ p.groove {border-style: groove;}
 }
 p.one {
   border-style: solid;
-  border-color: rgba(129, 51, 218, 0.411);}
+  border-color: rgba(182, 218, 51, 0.411);}
 .App-header {
-  background-color: rgb(243, 164, 199);
+  background-color: rgb(194, 22, 99);
   min-height: 300vh;
   display: flex;
   flex-direction: column;
@@ -29,7 +29,7 @@ p.one {
 }
 
 .App-link {
-  color: #ef9ed4;
+  color: #5a073e;
 }
 
 @keyframes App-logo-spin {
