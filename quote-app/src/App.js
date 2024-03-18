@@ -20,7 +20,7 @@ Open your mouth!
 Ha! Ha! Ha!
 Ha! Ha! Ha!
 </pre>
-<P>pr test review by rk</P>
+{/* <P>pr test review by rk</P> */}
         <h2><b>Interesting Day</b></h2>
         <p>app.js quote code</p>
         <i>day task starts</i>
@@ -73,7 +73,7 @@ Done.. testing pr
           target="_blank"
           rel="noopener noreferrer"
         >
-          <p>Good Afternoon.</p>
+          <p>GOOD AFTERNOON.</p>
           <p>good evening</p>
           <p>Hope your day is bright and super</p>
           <p>this is apaon technologies Kurnool.</p>
