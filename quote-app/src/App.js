@@ -23,8 +23,8 @@ Ha! Ha! Ha!
 {/* <P>pr test review by rk</P> */}
         <h2><b>Interesting Day</b></h2>
         {/* <I>DAY TASK STARTS</I> */}
-        <p>vardhan</p>
-        <p>vardhan 234</p>
+        <p>"All our dreams can come true, if we have the courage to pursue them." — Walt Disney.</p>
+        <p>Some men see things as they are and say why. 234</p>
         <h6><u>fun Afternoon</u></h6>
         {/* <h2 style="border: 3px solid pink;" Hello apaon members ></h2> */}
         <h2>HTML Image</h2>
@@ -37,13 +37,13 @@ Ha! Ha! Ha!
         <p> SHAIK KHAJA MOINUDDIN-V N V PRANAVI- SAI VARA PRASAD-VISHNU-RAMAKRISHNA-SAI PRANAV-SAI-APAON TECHNOLOGIES
           Edit <code>src/App.js</code> and save to reload.
         </p> from kurnool-Apaon sandeep
-        <p>vishnu 894 </p>
+        <p>"Don't wait. The time will never be just right." — Napoleon Hill 894 </p>
         <p>sandeep149</p>
         <p>sai</p>
         <p>apaon technologies</p>
         <p>Try and Try until you reach the <strong>Goal.</strong></p>
         <p>apaon technologies 1999</p>
-        <p>nani</p>
+        <p>The best way out is always through." — Robert Frost</p>
         <p>new task 654 152</p>
         <h3>Welcome to day 6</h3>
         <h1>This is a apaon this </h1>
@@ -55,7 +55,7 @@ Ha! Ha! Ha!
         <button>Sales qoute 354 986</button>
         <h>"Unite, Innovate, Thrive: Together, Anything is Possible!"</h>
         <b>apaon</b>
-        <strong>vardhan</strong>
+        <strong>"Failure is success in progress</strong>
         <button>task new</button>
         <p>Steps to follow merge and creating branches testing in prog res</p>
         <p>"Unite for Progress, Inspire in  Change."</p>
