@@ -20,7 +20,7 @@ Open your mouth!
 Ha! Ha! Ha!
 Ha! Ha! Ha!
 </pre>
-<P>pr test review by rk</P>
+{/* <P>pr test review by rk</P> */}
         <h2><b>Interesting Day</b></h2>
         <p>app.js quote code</p>
         <i>day task starts</i>
