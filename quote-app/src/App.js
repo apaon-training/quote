@@ -45,7 +45,7 @@ Ha! Ha! Ha!
         <p> <mark> Day start with new task</mark></p>
         <button>Sales qoute 149 789</button>
         <h>"Unite, Innovate, Thrive: Together, Anything is Possible!"</h>
-        <b>apaon</b>
+        <b>good branch of apaon</b>
         <strong>vardhan</strong>
         <button>error task</button>
         <p>Steps to follow merge and creating branches testing in progres</p>
