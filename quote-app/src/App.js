@@ -23,7 +23,7 @@ Ha! Ha! Ha!
 {/* <P>pr test review by rk</P> */}
         <h2><b>Interesting Day</b></h2>
         <p>app.js quote code</p>
-        <i>day task starts</i>
+        <I>DAY TASK STARTS</I>
         <p>vardhan</p>
         <h6><u>fun Afternoon</u></h6>
         <h2 style="border: 3px solid pink;" Hello apaon members ></h2>
