@@ -53,8 +53,8 @@ Ha! Ha! Ha!
         <p>This is PR testing branch changes 786</p>
         <p>"Empower Tomorrow, Today!"</p>
         <p> <mark> Day start with new task</mark></p>
-        <button>Sales qoute 149 789</button>
-        <h>"Unite, <b>Innovate</b>, Thrive: <i>Together</i>, ANYTHING IS POSSIBLE!"</h>
+        <button>Sales qoute 354 986</button>
+        <h>"Unite, Innovate, Thrive: Together, Anything is Possible!"</h>
         <b>apaon</b>
         <strong>vardhan</strong>
         <button>task new</button>
