@@ -25,10 +25,14 @@ Ha! Ha! Ha!
         <p>app.js quote code</p>
         <i>day task starts</i>
         <p>vardhan</p>
-        <h6><u>Hot Afternoon</u></h6>
+        <h6><u>fun Afternoon</u></h6>
+        <h2 style="border: 3px solid pink;" Hello apaon members ></h2>
+        <h2>HTML Image</h2>
+        <img src="https://media.istockphoto.com/vectors/welcome-to-team-concept-vector-illustration-vector-id1217003339?k=6&m=1217003339&s=612x612&w=0&h=fc6-o1Ni4D82qim3pPuhO38_DZJjoFDPbK1_zrVqSiA=" alt="Welcome to the team" width="460" height="345"></img>
         <p>html</p>
         <p>css</p>
         <p>java</p>
+ main
         {/* <h1 style="color:Tomato;">Hello apaon members</h1> */}
         <p1>"Make it <b>work</b>, make it <b>right</b>, make it <b>fast</b>."</p1>
         <p> Shaik Khaja Moinuddin-V N V Pranavi- sai vara prasad-vishnu-ramakrishna-sai pranav-sai-apaon technologies
@@ -48,7 +52,7 @@ Ha! Ha! Ha!
         <p>"Empower Tomorrow, Today!"</p>
         <p> <mark> Day start with new task</mark></p>
         <button>Sales qoute 149 789</button>
-        <h>"Unite, Innovate, Thrive: Together, Anything is Possible!"</h>
+        <h>"Unite, <b>Innovate</b>, Thrive: <i>Together</i>, ANYTHING IS POSSIBLE!"</h>
         <b>apaon</b>
         <strong>vardhan</strong>
         <button>error task</button>
