@@ -31,7 +31,7 @@ Ha! Ha! Ha!
         <img src="https://media.istockphoto.com/vectors/welcome-to-team-concept-vector-illustration-vector-id1217003339?k=6&m=1217003339&s=612x612&w=0&h=fc6-o1Ni4D82qim3pPuhO38_DZJjoFDPbK1_zrVqSiA=" alt="Welcome to the team" width="460" height="345"></img>
         <p>html</p>
         <p>css</p>
-        <p>java</p>
+        <p>JAVA</p>
  main
         {/* <h1 style="color:Tomato;">Hello apaon members</h1> */}
         <p1>"Make it <b>work</b>, make it <b>right</b>, make it <b>fast</b>."</p1>
