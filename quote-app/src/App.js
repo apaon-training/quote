@@ -22,7 +22,6 @@ Ha! Ha! Ha!
 </pre>
 {/* <P>pr test review by rk</P> */}
         <h2><b>Interesting Day</b></h2>
-        <p>app.js quote code</p>
         <I>DAY TASK STARTS</I>
         <p>vardhan</p>
         <p>vardhan 234</p>
