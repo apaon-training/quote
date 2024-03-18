@@ -30,7 +30,7 @@ Ha! Ha! Ha!
         <p>java</p>
         {/* <h1 style="color:Tomato;">Hello apaon members</h1> */}
         <p1>"Make it <b>work</b>, make it <b>right</b>, make it <b>fast</b>."</p1>
-        <p> Shaik Khaja Moinuddin-V N V Pranavi- sai vara prasad-vishnu-ramakrishna-sai pranav-sai-apaon technologies
+        <p> SHAIK KHAJA MOINUDDIN-V N V PRANAVI- SAI VARA PRASAD-VISHNU-RAMAKRISHNA-SAI PRANAV-SAI-APAON TECHNOLOGIES
           Edit <code>src/App.js</code> and save to reload.
         </p> from kurnool-Apaon sandeep
         <p>vishnu </p>
