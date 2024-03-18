@@ -75,9 +75,9 @@ Done.. testing pr
           rel="noopener noreferrer"
         >
           <p>GOOD AFTERNOON.</p>
-          <p>good evening</p>
+          <p>GOOD EVENING</p>
           <p>Hope your day is bright and super</p>
-          <p>this is apaon technologies Kurnool.</p>
+          <p>THIS IS APAON TECHNOLOGIES KURNOOL.</p>
           <p>Day is always productive with best time to learn.</p>
           Learn React let's start
           <p>Revising PR concepts and practising it test review1~</p>
