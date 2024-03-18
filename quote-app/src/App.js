@@ -38,10 +38,10 @@ Ha! Ha! Ha!
         <p> Shaik Khaja Moinuddin-V N V Pranavi- sai vara prasad-vishnu-ramakrishna-sai pranav-sai-apaon technologies
           Edit <code>src/App.js</code> and save to reload.
         </p> from kurnool-Apaon sandeep
-        <p>vishnu 199 </p>
+        <p>vishnu </p>
         <p>sandeep149</p>
         <p>sai</p>
-        <p>apaon technologies</p>
+        <p>apaon technologies 1999</p>
         <p>nani</p>
         <p>new task 654 152</p>
         <h3>Welcome to day 6</h3>
