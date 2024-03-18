@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to apaon</h1>
+        <p>google</p>
         <pre>
           Johny, Johny!
 Yes, Papa
