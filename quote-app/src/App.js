@@ -26,7 +26,7 @@ Ha! Ha! Ha!
         <I>DAY TASK STARTS</I>
         <p>vardhan</p>
         <h6><u>fun Afternoon</u></h6>
-        <h2 style="border: 3px solid pink;" Hello apaon members ></h2>
+        {/* <h2 style="border: 3px solid pink;" Hello apaon members ></h2> */}
         <h2>HTML Image</h2>
         <img src="https://media.istockphoto.com/vectors/welcome-to-team-concept-vector-illustration-vector-id1217003339?k=6&m=1217003339&s=612x612&w=0&h=fc6-o1Ni4D82qim3pPuhO38_DZJjoFDPbK1_zrVqSiA=" alt="Welcome to the team" width="460" height="345"></img>
         <p>html</p>
@@ -41,13 +41,11 @@ Ha! Ha! Ha!
         <p>vishnu 894 </p>
         <p>sandeep149</p>
         <p>sai</p>
- feature/786-shaik
         <p>apaon technologies</p>
         <p>Try and Try until you reach the <strong>Goal.</strong></p>
 
         <p>apaon technologies 1999</p>
         <p>nani</p>
- main
         <p>new task 654 152</p>
         <h3>Welcome to day 6</h3>
         <h1>This is a apaon this </h1>
