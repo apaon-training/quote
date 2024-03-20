@@ -2,11 +2,7 @@
     "Flight":{
     "Reward":true,
     "Return":"on way",
-    "Numbers_of_passengers":{
-        "Adult":2,
-        "Child":1,
-        "Infant":1
-    },
+    "Numbers_of_passengers":["Adult","Child","Infant"],
     "class":"Premium"
 }
 }
