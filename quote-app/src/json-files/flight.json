@@ -1,0 +1,24 @@
+
+{
+    "Flights":{ 
+        "rewards": true,
+         "return": {
+        "travelling-type1": "return",
+        "travelling-type2": "one way"
+         },
+         "Adult": {
+                
+                    
+            "number-of-adults": 2,
+            "number-of-children": 2,
+            "number-of-infants": 10
+                
+        },
+        "class":{
+            "type-of-class":"premium class"
+    }
+           
+            }
+          
+    }
+
