@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 //This will importe json content into 'quote'
 import quote from './json-files/quote.json'
-
+import quote from './flightjson-file 1/flight.json'
 function App() {
   return (
     <div className="App">
@@ -11,6 +11,8 @@ function App() {
 
       <h1> { quote['client-details']['customer-name']} </h1>
       <h3> { quote['quote-items']['total-price'] } </h3>
+      <h1> {quote['flight']['reward']}</h1>
+      <h3>{ quote['flight']['passanger types']}</h3>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to apaon</h1>
