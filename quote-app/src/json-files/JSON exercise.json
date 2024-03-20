@@ -3,7 +3,7 @@
     "Reward":true,
     "Return":"on way",
     "Numbers_of_passengers":["Adult","Child","Infant"],
-    "class":"Premium"
+    "class":["Premium","Economy","Business"]
 }
 }
 
