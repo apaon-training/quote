@@ -1,0 +1,15 @@
+{
+    "flights":{
+        "Rewards":true
+    },
+    "Return":"on way",
+    "passengers":{
+        "no of passengers adults":1,
+        "no of passenger children":2,
+        "no of passengers inflants":0
+    },
+    "flight class":{
+        "class-type":"premium"
+
+    }
+}
