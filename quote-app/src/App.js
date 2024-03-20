@@ -1,11 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
+//This will importe json content into 'quote'
+import quote from './json-files/quote.json'
 
 function App() {
   return (
     <div className="App">
-      <p>this is apaon</p>
-      <header className="App-header">
+      {/* <p>this is apaon</p> */}
+      {/* JSON.stringy is a fucntion which converts json object to string */}
+
+      <h1> { quote['client-details']['customer-name']} </h1>
+      <h3> { quote['quote-items']['total-price'] } </h3>
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to apaon</h1>
         <p>google</p>
@@ -20,19 +26,15 @@ Open your mouth!
 Ha! Ha! Ha!
 Ha! Ha! Ha!
 </pre>
-{/* <P>pr test review by rk</P> */}
         <h2><b>Interesting Day</b></h2>
-        {/* <I>DAY TASK STARTS</I> */}
         <p>"All our dreams can come true, if we have the courage to pursue them." — Walt Disney.</p>
         <p>Some men see things as they are and say why. 234</p>
         <h6><u>fun Afternoon</u></h6>
-        {/* <h2 style="border: 3px solid pink;" Hello apaon members ></h2> */}
+     
         <h2>HTML Image</h2>
-        {/* <img src="https://media.istockphoto.com/vectors/welcome-to-team-concept-vector-illustration-vector-id1217003339?k=6&m=1217003339&s=612x612&w=0&h=fc6-o1Ni4D82qim3pPuhO38_DZJjoFDPbK1_zrVqSiA=" alt="Welcome to the team" width="460" height="345"></img> */}
         <p>html</p>
         <p>css</p>
         <p>java</p>
-        {/* <h1 style="color:Tomato;">Hello apaon members</h1> */}
         <p1>"Make it <b>work</b>, make it <b>right</b>, make it <b>fast</b>."</p1>
         <p> SHAIK KHAJA MOINUDDIN-V N V PRANAVI- SAI VARA PRASAD-VISHNU-RAMAKRISHNA-SAI PRANAV-SAI-APAON TECHNOLOGIES
           Edit <code>src/App.js</code> and save to reload.
@@ -82,7 +84,7 @@ Done.. testing pr
           Learn React let's start
           <p>Revising PR concepts and practising it test review1~</p>
         </a>
-      </header>
+      </header> */}
     </div>
   );
 }

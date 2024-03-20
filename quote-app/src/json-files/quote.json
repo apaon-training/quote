@@ -1,0 +1,34 @@
+{
+    "client-details": {
+        "project-name": "Cabarita home",
+        "customer-name": "cherry ober test",
+        "emails": [
+            "cherry@gmail.com",
+            "cherry1@gmail.com",
+            "cherry2@gmail.com"
+        ],
+        "phone-numbers": [
+            290071800,
+            63636363,
+            37377377
+        ],
+        "is-local": true
+    },
+    "quote-items": {
+        "items": [
+            {
+                "product-code": "AW6012W",
+                "name": "comet",
+                "quantity": 1,
+                "price": 178.25
+            },
+            {
+                "product-code": "AW2016W",
+                "name": "Maruzio",
+                "quantity": 1,
+                "price": 120.75
+            }
+        ],
+        "total-price": 695.12
+    }
+}
