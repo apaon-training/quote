@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 //This will importe json content into 'quote'
-import quote from './json-files/quote.json'
+import quote from './json-files/JSON exercise.json'
 
 function App() {
   return (
@@ -9,8 +9,10 @@ function App() {
       {/* <p>this is apaon</p> */}
       {/* JSON.stringy is a fucntion which converts json object to string */}
 
-      <h1> { quote['client-details']['customer-name']} </h1>
-      <h3> { quote['quote-items']['total-price'] } </h3>
+      <h1> { quote['Flight']['Numbers_of_passengers']['Adult']} </h1>
+      <h3> { quote['Flight']['Reward'] } </h3>
+      <h2> { quote['Flight']['Return']} </h2>
+      <h4> { quote['Flight']['class']['Premium']} </h4>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to apaon</h1>

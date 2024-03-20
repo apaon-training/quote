@@ -1,0 +1,23 @@
+{
+    "Flight": {
+        "Reward": true,
+        "Return": "one way",
+        "Numbers_of_passengers": {
+            "Adult": 2,
+            "Child": 1,
+            "Infant": 3
+        },
+        "class": {
+            "Premium": 250000,
+            "Economy": 360000,
+            "Business": 80000
+        }
+    }
+}
+
+
+
+
+
+
+
