@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 //This will importe json content into 'quote'
 import quote from './json-files/quote.json'
+import quote from './json-files/flight.json'
 
 function App() {
   return (
