@@ -9,10 +9,10 @@ function App() {
     <div className="App">
       {/* <p>this is apaon</p> */}
       {/* JSON.stringy is a fucntion which converts json object to string */}
-      <h1> { quote['Flight']['Adult']['number of adults']}</h1>
+      <h1> { quote.Flights.Adult['number-of-infants']}</h1>
 
-      <h1> { quote['client-details']['customer-name']} </h1>
-      <h3> { quote['quote-items']['total-price'] } </h3>
+      {/* <h1> { quote['client-details']['customer-name']} </h1>
+      <h3> { quote['quote-items']['total-price'] } </h3> */}
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to apaon</h1>
