@@ -1,7 +1,7 @@
 {
     "Flight":{
     "Reward":true,
-    "Return":"on way",
+    "Return":"one way",
     "Numbers_of_passengers":["Adult","Child","Infant"],
     "class":["Premium","Economy","Business"]
 }
