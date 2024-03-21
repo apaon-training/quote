@@ -1,0 +1,18 @@
+{
+    "flight":{
+        "Rewards":true,
+        "Return":"on way",
+        "Numbers-of-passengers":[
+            "Adult",
+            "children",
+            "infants" 
+        ],
+        
+        "class":[
+            "premium",
+            "Economy",
+            "Business"
+        ]
+    
+    }
+}
