@@ -9,8 +9,8 @@
          "Adult": {
                 
                     
-            "number-of-adults": 2,
-            "number-of-children": 2,
+            "number-of-adults": "Adults = 2",
+            "number-of-children": "Childrens = 2",
             "number-of-infants": 10
                 
         },
