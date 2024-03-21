@@ -12,7 +12,9 @@ function App() {
 
       {/* <h1> { quote['client-details']['customer-name']} </h1>
       <h3> { quote['quote-items']['total-price'] } </h3> */}
-      <h3>{ quote.flight.Rewards}</h3>
+      <h2>{ quote.flight.rewards}</h2>
+      <h3>{ quote.travellers}</h3>
+
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to apaon</h1>
