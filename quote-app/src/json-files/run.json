@@ -1,18 +1,23 @@
+
 {
-    "flight":{
-        "Rewards":true,
-        "Return":"on way",
-        "Numbers-of-passengers":[
-            "Adult",
-            "children",
-            "infants" 
-        ],
-        
-        "class":[
-            "premium",
-            "Economy",
-            "Business"
-        ]
-    
+    "Flights":{ 
+        "rewards": true,
+         "return": {
+        "travelling-type1": "return",
+        "travelling-type2": "one way"
+         },
+         "Adult": {
+                
+                    
+            "number-of-adults": "Adults = 2",
+            "number-of-children": "Childrens = 2",
+            "number-of-infants": 10
+                
+        },
+        "class":{
+            "type-of-class":"premium class"
     }
-}
+           
+            }
+          
+    }
