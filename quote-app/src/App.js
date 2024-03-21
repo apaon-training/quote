@@ -12,7 +12,7 @@ function App() {
 
       {/* <h1> { quote['client-details']['customer-name']} </h1>
       <h3> { quote['quote-items']['total-price'] } </h3> */}
-      <h1> {quote.Flights.return['travelling-type2']}</h1>
+      <h1> {quote.Flights.return['travelling-type1']}</h1>
       <h3> { quote.Flights.Adult['number-of-adults']}</h3>
       <h3> { quote.Flights.Adult['number-of-children']}</h3>
       <p> { quote.Flights.class['type-of-class']}</p>
