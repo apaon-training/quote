@@ -10,8 +10,8 @@ function App() {
       {/* <p>this is apaon</p> */}
       {/* JSON.stringy is a fucntion which converts json object to string */}
 
-      <h1> { quote['client-details']['customer-name']} </h1>
-      <h3> { quote['quote-items']['total-price'] } </h3>
+      {/* <h1> { quote['client-details']['customer-name']} </h1>
+      <h3> { quote['quote-items']['total-price'] } </h3> */}
       <h1> {quote.Flights.return['travelling-type2']}</h1>
       <h3> { quote.Flights.Adult['number-of-adults']}</h3>
       <h3> { quote.Flights.Adult['number-of-children']}</h3>
