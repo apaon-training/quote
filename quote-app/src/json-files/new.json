@@ -1,18 +1,17 @@
 {
     "flight":{
-        "Rewards":true,
-        "Return":"on way",
-        "Numbers-of-passengers":[
-            "Adult",
-            "children",
-            "infants" 
-        ],
-        
-        "class":[
-            "premium",
-            "Economy",
-            "Business"
-        ]
-    
-    }
+    "rewards": true,
+    "return": true,
+    "travellers": {
+        "adults": 2,
+        "children" : 3,
+        "infants" : 1
+    },
+    "travel-type" : "premium Economy", 
+    "from": "Sydney - australia",
+    "to" : "Hyderabad - india",
+    "start-date": "21-Mar-2024",
+    "end-date" : "30-Mar-2024",
+    "flexible-dates" : true
+}
 }
