@@ -1,18 +1,15 @@
 {
-  "flight":{
-    "Reward": "true"
-},
-"Retun":"one way",
- "passanger types":[
-    "2 adult",
-    "1 child"
- ],
-"class":[
-    "Premium",
-    "Economy",
-    "Bussiness"
-]
- }
-
-  
-
+  "flight": {
+      "Reward": true,
+      "Retun": "one way",
+      "passanger types": [
+          "2 adult",
+          "1 child"
+      ],
+      "class": [
+          "Premium",
+          "Economy",
+          "Bussiness"
+      ]
+  }
+}
