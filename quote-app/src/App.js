@@ -1,6 +1,8 @@
 
 import './App.css';
 import {useEffect, useState} from 'react';
+import { DataTable } from 'primereact/datatable';
+import { Column } from 'primereact/column';
 
 function App() {
   //Define variable to store our itemsdata
@@ -25,7 +27,15 @@ function App() {
     <div className="App">
       <p>API Integration</p>
       {/* Converting 'quoteItems' variable data into string for displaying purpose */}
-      <span>{JSON.stringify(quoteItems)}</span>
+      {/* <span>{JSON.stringify(quoteItems)}</span> */}
+      <div className="card">
+            <DataTable value={quoteItems?.records} tableStyle={{ minWidth: '50rem' }}>
+              {/* Fix the item id binding */}
+                <Column field="fields.'Item ID'" header="Id"></Column>
+                <Column field="fields.Quantity" header="Quantity"></Column>
+                <Column field="fields.Price" header="Price"></Column>
+            </DataTable>
+      </div>
     </div>
   );
 }
