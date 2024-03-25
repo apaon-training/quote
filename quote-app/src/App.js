@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to day 4</h1>
-        <h2><b>Interesting Day</b></h2>
+        <h2><b>Interesting Day 1</b></h2>
         <i>day task starts</i>
         <h6><u>Hot Afternoon</u></h6>
         <h1 style="color:Tomato;">Hello apaon members</h1>
