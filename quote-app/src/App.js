@@ -31,7 +31,7 @@ function App() {
       <div className="card">
             <DataTable value={quoteItems?.records} tableStyle={{ minWidth: '50rem' }}>
               {/* Fix the item id binding */}
-                <Column field="fields.'Item ID'" header="Id"></Column>
+                <Column field="fields.Item ID" header="Id"></Column>
                 <Column field="fields.Quantity" header="Quantity"></Column>
                 <Column field="fields.Price" header="Price"></Column>
             </DataTable>
