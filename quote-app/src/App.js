@@ -15,7 +15,7 @@ function App() {
         <h1>Hello apaon team members</h1>
         <p> Shaik Khaja Moinuddin-V N V Pranavi- sai vara prasad-vishnu-ramakrishna-sai pranav-sai-apaon A1 team members
           Edit <code>src/App.js</code> and save to reload.
-        </p> from kurnool-Apaon sandeep
+        </p> from kurnool-Apaon sandeep apaon
         <p>vishnu </p>
         <p>sandeep149</p>
         <p>apaon technologies</p>
