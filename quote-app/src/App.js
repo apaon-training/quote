@@ -29,7 +29,7 @@ function App() {
       {/* Converting 'quoteItems' variable data into string for displaying purpose */}
       {/* <span>{JSON.stringify(quoteItems)}</span> */}
       <div className="card">
-      <DataTable value={quoteItems?.records} tableStyle={{ minWidth: '50rem' }}>
+      <DataTable value={quoteItems?.records} paginator rows={5} rowsPerPageOptions={[5, 10, 25, 50]} tableStyle={{ minWidth: '50rem' }}>
                 <Column field="fields.Item ID" header="ID"></Column>
                 <Column field="fields.Quantity" header="Quantity"></Column>
                 <Column field="fields.Price" header="Price"></Column>
