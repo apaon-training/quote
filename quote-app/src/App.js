@@ -29,11 +29,10 @@ function App() {
       {/* Converting 'quoteItems' variable data into string for displaying purpose */}
       {/* <span>{JSON.stringify(quoteItems)}</span> */}
       <div className="card">
-      <DataTable value={quoteItems?.records} showGridlines tableStyle={{ minWidth: '50rem' }}>
-                <Column field="field.Item ID" header="ID"></Column>
-                <Column field="field.Quantity" header="Quantity"></Column>
-                <Column field="field.Price" header="Price"></Column>
-                
+      <DataTable value={quoteItems?.records} tableStyle={{ minWidth: '50rem' }}>
+                <Column field="Item ID" header="ID"></Column>
+                <Column field="Quantity" header="Quantity"></Column>
+                <Column field="Price" header="Price"></Column>
             </DataTable>
      {/* Use primeng DataTable for showing data */}
       </div>
