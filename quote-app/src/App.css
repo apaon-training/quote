@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  background-color: rgba(150, 143, 179, 0.014);
+  background-color: rgba(10, 3, 36, 0.014);
   height: 70vmin;
   pointer-events: allc;
 }
@@ -19,18 +19,18 @@ p.one {
   border-style: solid;
   border-color: rgba(291, 106, 16, 0.411);}
 .App-header {
-  background-color: rgb(34, 131, 210);
+  background-color: rgb(144, 11, 151);
   min-height: 300vh;
   display: flex;
   flex-direction: column;
   align-items: right;
   justify-content: center;
   font-size: calc(9px + 2vmin);
-  color: white;
+  color: rgb(207, 188, 188);
 }
 
 .App-link {
-  color: #5a073e;
+  color: #900909;
 }
 
 @keyframes App-logo-spin {
