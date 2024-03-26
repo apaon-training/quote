@@ -9,6 +9,9 @@
 }
 p.groove {border-style: groove;}
 
+.p-datatable-wrapper{
+  max-height: 500px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

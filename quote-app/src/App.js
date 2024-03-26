@@ -36,7 +36,7 @@ function App() {
       {/* Converting 'quoteItems' variable data into string for displaying purpose */}
       {/* <span>{JSON.stringify(quoteItems)}</span> */}
       <div className="card">
-            <DataTable value={quoteItems?.records} tableStyle={{ minWidth: '50rem' }}>
+            <DataTable value={quoteItems?.records} tableStyle={{ minWidth: '20rem'}}>
               {/* Fix the item id binding */}
                 <Column field="fields.Item ID" header="Id"></Column>
                 <Column field="fields.Quantity" sortable header="Quantity"></Column>
